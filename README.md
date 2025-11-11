@@ -16,8 +16,6 @@ Analizar datos de la tienda:
 
 Debes evaluar información como los ingresos, las categorías más vendidas, las reseñas de los clientes, los productos más vendidos y el envío promedio.
 
- 
-
 Crear gráficos para visualización:
 
 Decide qué tipos de gráficos utilizar para presentar los resultados de forma clara y visual.

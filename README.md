@@ -44,3 +44,4 @@ Después del análisis, escriba un texto explicando a qué tienda debería vende
 #### Por lo anterior, la recomendación es reestructurar o cerrar/vender la "Tienda 4"
 
 
+![Logo Correo Gmail](https://github.com/user-attachments/assets/6584d814-3dd3-42e8-af17-9b26d7fef9b4)

@@ -41,6 +41,6 @@ Después del análisis, escriba un texto explicando a qué tienda debería vende
 * Envío promedio de Tienda 4: 23,459.46, lo cual es relativamente igual que sus pares que tienen ventas más significativas, indicativo de que el cliente está pagando más por envío en artículos vendidos.
 * La venta de muebles significa un 19.7% pero respecto de sus ingresos representa un 16.3%, siendo la categoría que más vende en las demás tiendas.
 
-##### Por lo anterior, la recomendación es reestructurar o cerrar/vender la "Tienda 4"
+#### Por lo anterior, la recomendación es reestructurar o cerrar/vender la "Tienda 4"
 
 
